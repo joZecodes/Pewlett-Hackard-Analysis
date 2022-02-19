@@ -7,5 +7,3 @@ The analysis centers around determining which employees are likely to retire soo
 ## Summary
 Over 30% of the company is eligible for retirement and of that 30% about 5-10% are eligible to be mentors to the other employees.
 The company will need to come up with a solution to get more people up to speed in order to prepare for the turnover.
-
-
